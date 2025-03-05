@@ -1,4 +1,4 @@
-Online Voting System
+Online Voting System:
 This is a GUI-based Online Voting System designed to provide a secure and efficient voting experience. It replaces the traditional manual voting system with a digital and automated approach. The system includes voter registration, authentication, voting, and result declaration, making the process seamless and tamper-proof.
 
 📌 Features:
